@@ -27,13 +27,19 @@
 @section 	Cygwin Ideas
 	Autodetect keys pressed
 		*normal, on entry
+	R.C. git -> status here
 	R.C. opens
 		*w/git, gitk & fs
 	R.C. simple top-level git check
 		*levels of git/ repos & .gitignores
-
+		
 
 @section 	Windows Dev
 	Notepad++ Plugin
 		*File->Open Archived
+	R.C. New -> Sectioned Text File
+
+@section 	Misc.
+	Cracking the Code Study
+	Mind Maps
 
