@@ -1,0 +1,7 @@
+- Autodetect keys pressed (Win, Cygwin, normal, on entry)
+- Cygwin R.C. (w/gitk & fs)
+- Cygwin R.C. (top-level git check)
+- #1(clean)2(clean)3(Notepad++)4(File Explorer)
+- Notepad++ Plugin (File->Open Archived)
+- Apps...
+- ...?
