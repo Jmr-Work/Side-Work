@@ -38,6 +38,7 @@
 	Notepad++ Plugin
 		*File->Open Archived
 	R.C. New -> Sectioned Text File
+	WorkByDay/ auto-gen today's dir, clean up empties
 
 @section 	Misc.
 	Cracking the Code Study
