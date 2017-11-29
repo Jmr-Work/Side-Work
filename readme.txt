@@ -1,7 +1,7 @@
 @brief 		Tracking & recording my side work ideas
 @details 	For tracking & pursuit, with planning & record
 @auth 		Justin Reina
-@date 		11/24/17
+@date 		11/29/17
 
 @section 	Theme
 	<open>
@@ -11,6 +11,7 @@
 	- Cygwin Dev
 	- Apps
 	- Windows Dev
+	- Misc
 	- ...?
 
 @section 	Plan
@@ -41,6 +42,7 @@
 	WorkByDay/ auto-gen today's dir, clean up empties
 
 @section 	Misc.
+	Strut Map to Google Maps example (and share with Thinkify)
 	Cracking the Code Study
 	Mind Maps
 
