@@ -1,0 +1,27 @@
+@brief 		topics to focus on for back to work
+@details 	
+@auth 		Justin Reina
+@date 		12/4/17
+
+@section 	OS
+	Linux
+	Embedded Linux
+	Misc. RTOS
+
+
+@section 	MCU
+	ARM
+	ISRs
+	ASM
+	OTM
+	OS
+	Periphs
+
+
+@section 	SW
+	Python
+	Perl
+	C++
+	CDT
+	ARM Assembly
+

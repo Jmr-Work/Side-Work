@@ -30,7 +30,7 @@
 		*normal, on entry
 	R.C. git -> status here
 	R.C. opens
-		*w/git, gitk & fs
+		*w/git, gitk & fs, gitk --all &
 	R.C. simple top-level git check
 		*levels of git/ repos & .gitignores
 		
@@ -39,6 +39,7 @@
 	Notepad++ Plugin
 		*File->Open Archived
 	R.C. New -> Sectioned Text File
+	R.C.-> Shortcut to Desktop
 	WorkByDay/ auto-gen today's dir, clean up empties
 
 @section 	Misc.
